@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "558502543975",
+    "project_id": "location-finder-2f62e",
+    "storage_bucket": "location-finder-2f62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558502543975:android:c6957eb371179b090e4ac2",
+        "android_client_info": {
+          "package_name": "com.nextstacks.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558502543975-3h6i1mhndsh071b485rfaqsu8b9ag2bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextstacks.locationfinder",
+            "certificate_hash": "2b6e62383d0c9bb1bd3c8ab8908b5572bea2b826"
+          }
+        },
+        {
+          "client_id": "558502543975-o9tkjkbkngofem2gbrj85vonejokt1mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAky2DKCGSDayGvNA88N8tgvtnpqbzgq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558502543975-o9tkjkbkngofem2gbrj85vonejokt1mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
